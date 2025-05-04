@@ -16,7 +16,7 @@ module.exports = {
             .setTitle('Yardım Menüm')
             .addFields(
                 { name: 'Moderasyon Komutları', value: `- /ban <üye> <sebep> <mesaj-sil>\n- /unban <üye> <sebep>\n- /kick <üye> <sebep>\n- /timeout <üye> <süre> <sebep>\n- /untimeout <üye>\n- /lock\n- /unlock\n- /slowmode <süre>\n- /move <üye> <kanal>\n- /nuke\n- /sil <miktar>\n- /snipe`, inline: false },
-                { name: 'Rol Komutları', value: `- /rol-ver <üye> <rol>\n- /rol-al <üye> <rol>`, inline: false },
+                { name: 'Rol Komutları', value: `- /rol ver <üye> <rol>\n- /rol al <üye> <rol>`, inline: false },
                 { name: 'Küfür Engel Komutları', value: `- /küfür-engel aç\n- /küfür-engel kapat`, inline: false },
                 { name: 'Mod Log Komutları', value: `- /modlog aç <kanal>\n- /modlog kapat`, inline: false },
                 { name: 'Otorol Komutları', value: `- /otorol ayarla <rol> <kanal>\n- /otorol sıfırla`, inline: false },
