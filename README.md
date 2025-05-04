@@ -17,8 +17,8 @@ v14 Discord kütüphaneli Moderasyon Botu Altyapısıdır. Sahibi mzrdev'dir. Sa
 > ✅ /snipe <br>
 
 ### Rol Komutları
-> ✅ /rol-ver <üye> \<rol> <br>
-> ✅ /rol-al <üye> \<rol> <br>
+> ✅ /rol ver <üye> \<rol> <br>
+> ✅ /rol al <üye> \<rol> <br>
 
 ### Küfür Engel Komutları
 > ✅ /küfür-engel aç <br>
