@@ -1,6 +1,5 @@
 const { loadCommands } = require('../../Handlers/commandHandler');
 const { ActivityType, Client, Events } = require('discord.js');
-const djs = require('mzrdjs');
 
 module.exports = {
     name: Events.ClientReady,
@@ -11,7 +10,7 @@ module.exports = {
     async execute(client) {
         client.user.setPresence({ status: 'idle', activities: [{ name: 'YT: @MZRDev\'e abone oluyor', type: ActivityType.Custom }] });
 
-        loadCommands(client).then(() => djs.slashBuilder);
+        loadCommands(client).then(() => client.djs.slashBuilder);
     },
 };
 

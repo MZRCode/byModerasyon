@@ -14,6 +14,7 @@ client.subCommands = new Collection();
 client.events = new Collection();
 client.snipes = new Collection();
 client.mzr = require('mzrdjs');
+client.djs = require('mzrdjs');
 client.db = require('mzrdb');
 
 client.login(client.config.token);
