@@ -27,7 +27,7 @@ module.exports = {
             .setTimestamp()
             .setFooter({ text: `${user.username} tarafından istendi.`, iconURL: user.displayAvatarURL() })
             .setThumbnail(client.user.displayAvatarURL())
-            .setColor('Blurple')
+            .setColor('Blurple');
 
         const mzrRow = new ActionRowBuilder().addComponents(
             new ButtonBuilder()
