@@ -59,4 +59,4 @@ Botu kullanıma hazırlamak için aşağıdaki adımları izle
 
 ## 💞 Yardıma İhtiyacın Olursa
 [**MZR Discord Sunucusu**](https://discord.gg/ktVdQYrtXF)'na katılabilir ve destek alabilirsin. <br>
-[**Altyapının Tanıtım ve Kurulum videosu**]()'nu izleyebilirsin.
+[**Altyapının Tanıtım ve Kurulum videosu**](https://youtu.be/DyD79ibKNMc)'nu izleyebilirsin.
